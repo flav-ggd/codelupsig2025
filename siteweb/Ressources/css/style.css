@@ -1,0 +1,28 @@
+.custom1 {
+    text-align: justify;
+    font-family: Calibri,sans-serif;
+    background-color: #F8F7F7;
+    color : #1b04ec ;
+    margin-left: 20px;
+    }
+
+.custom2 {
+        text-align: justify;
+        font-family: Calibri,sans-serif;
+        font-style: italic;
+        color : #000000 ;
+        margin-left: 20px;
+        }
+
+.custom2_5 {
+            text-align: justify;
+            font-family: Calibri,sans-serif;
+            color : #bd5d0f ;
+            font-weight: bold;
+            margin-left: 20px;
+            }
+.custom3 {
+            text-align: justify;
+            font-family: Calibri,sans-serif;
+            margin-left: 20px;
+            }
